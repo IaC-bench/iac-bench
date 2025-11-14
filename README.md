@@ -54,7 +54,7 @@ Contributions welcome! We're looking for help with:
 
 ## 💰 Sponsors
 
-<a href="https://cloudgeni.com"><img src="https://cloudgeni.com/logo.png" alt="Cloudgeni" width="150"></a>
+<a href="https://cloudgeni.ai"><img src="assets/logo-name.jpg" alt="Cloudgeni" width="150" style="border-radius: 15px;"></a>
 
 ## 📄 License
 
